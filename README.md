@@ -24,15 +24,7 @@
 注意: 由于本应用未上架应用商店，安装时可能需要你开启“允许安装来自未知来源的应用”权限。
 
 📸 应用截图
-<table>
-<tr>
-<td align="center"><img src="https://dl.fumeng.xyz/首页截图.jpg=首页截图" alt="首页截图"><br><sub><b>首页</b></sub></td>
-<td align="center"><img src="https://placehold.co/250x500/111827/E5E7EB?text=搜索页截图" alt="搜索页截图"><br><sub><b>搜索页</b></sub></td>
-<td align="center"><img src="https://placehold.co/250x500/111827/E5E7EB?text=播放页截图" alt="播放页截图"><br><sub><b>播放页</b></sub></td>
-</tr>
-</table>
-
-(请将上面的 placehold.co 链接替换为你自己的应用截图 URL)
+![pic](/首页截图.jpg/)
 
 🛠️ 技术栈
 客户端: Android (Java / Kotlin)
