@@ -26,7 +26,7 @@
 📸 应用截图
 <table>
 <tr>
-<td align="center"><img src="https://placehold.co/250x500/111827/E5E7EB?text=首页截图" alt="首页截图"><br><sub><b>首页</b></sub></td>
+<td align="center"><img src="https://dl.fumeng.xyz/首页截图.jpg=首页截图" alt="首页截图"><br><sub><b>首页</b></sub></td>
 <td align="center"><img src="https://placehold.co/250x500/111827/E5E7EB?text=搜索页截图" alt="搜索页截图"><br><sub><b>搜索页</b></sub></td>
 <td align="center"><img src="https://placehold.co/250x500/111827/E5E7EB?text=播放页截图" alt="播放页截图"><br><sub><b>播放页</b></sub></td>
 </tr>
